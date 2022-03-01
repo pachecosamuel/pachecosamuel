@@ -19,6 +19,9 @@
 
 ### All our dreams can come true – if we have the courage to pursue them. – Walt Disney 🤯🚀
 
+<br/><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pachecosamuel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
