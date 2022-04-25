@@ -32,6 +32,21 @@
 
 <br/>
 
+<div align="center"><br>
+
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pachecosamuel&layout=compact)](https://github.com/pachecosamuel/github-readme-stats)
+
+</div>
+
+<br>
+
+<div align = "center"><br>
+
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pachecosamuel&show_icons=true&theme=monokai)
+
+</div>
+
 
 
 <br/><br/>
