@@ -43,7 +43,7 @@
 
 <div align = "center"><br>
 
-![Samuel's GitHub stats]()
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pachecosamuel&show_icons=true&theme=monokai)
 
 </div>
 
