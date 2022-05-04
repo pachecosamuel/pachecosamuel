@@ -35,7 +35,7 @@
 <div align="center"><br>
 
   
-  [![Top Langs]()](https://github.com/pachecosamuel/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pachecosamuel&layout=compact&theme=monokai)](https://github.com/pachecosamuel/github-readme-stats)
 
 </div>
 
@@ -43,7 +43,7 @@
 
 <div align = "center"><br>
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pachecosamuel&show_icons=true&theme=monokai)
+![Samuel's GitHub stats]()
 
 </div>
 
