@@ -33,14 +33,13 @@
 <br/>
 
 <div align="center"><br>
-<a href="https://github.com/pachecosamuel">
-<img height = "160em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pachecosamuel&layout=compact&theme=monokai)](https://github.com/pachecosamuel/github-readme-stats"/>
-
     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pachecosamuel&layout=compact&theme=monokai)](https://github.com/pachecosamuel/github-readme-stats)
+</div>
 <br>
     
-
-<img height = "160em" src = "https://github-readme-stats.vercel.app/api?username=pachecosamuel&show_icons=true&theme=monokai)"/>
+<div align="center"><br>
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pachecosamuel&show_icons=true&theme=monokai)
 </div>
 
 
