@@ -32,12 +32,15 @@
 
 <br/>
 
+<br><br>
+
 <div align="center">
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pachecosamuel&layout=compact&theme=monokai)](https://github.com/pachecosamuel/github-readme-stats)
     
 </div>
 
+<br><br>
     
 <div align="center">
     
