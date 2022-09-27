@@ -1,6 +1,7 @@
-## <div align="center">Hey there, I'm Samuel Pacheco. 👋</div>
+## <div align="center">Hey there, I'm Samuel Pacheco. Welcome! 👋</div>
 
-##### <div align="center">- 📚 I have a degree in information technology management (Scrum, Kanban, Agile Master and OKR's measures) and graduated in a 720-hour residency in Full Stack Development.</div>
+##### <div align="center">- 👨‍💻💽 Nowadays i'm working with .Net platform and C# to develop application in Microsoft Azure Cloud.
+📚 I have a degree in information technology management (Scrum, Kanban, Agile Master and OKR's measures), graduated in a 720-hour residency in Full Stack Development. And lots of another tech courses. </div>
 
 <br>
 
