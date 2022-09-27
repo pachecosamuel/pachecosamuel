@@ -21,7 +21,7 @@
 
 <hr
 
-##### <div align="center">- All our dreams can come true – if we have the courage to pursue them. – Walt Disney 🤯🚀.</div>
+##### 
 ### 
 
 <div align="center"><br>
