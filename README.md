@@ -58,6 +58,12 @@
 </div>
 
 
+<div id="badges"  align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=If+you+fail+to+plan+you+plan+to+fail)](https://git.io/typing-svg)
+    
+  </div>
+
 
 <br/><br/>
 
