@@ -39,28 +39,24 @@
   <a href = "https://drive.google.com/file/d/1N6mR1coHlmp9aNJpt6Dl22fPZNUhqC_d/view?usp=sharing"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+
+
+<br><br>
+
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pachecosamuel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachecosamuel&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
 <br/>
-
-<br><br>
-
-<div align="center">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pachecosamuel&layout=compact&theme=monokai)](https://github.com/pachecosamuel/github-readme-stats)
-    
-</div>
-
-<br><br>
-    
-<div align="center">
-    
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pachecosamuel&show_icons=true&theme=monokai)
-    
-</div>
-
 
 <div id="badges"  align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=If+you+fail+to+plan+you+plan+to+fail)](https://git.io/typing-svg)
+
+
     
   </div>
   
