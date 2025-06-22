@@ -1,7 +1,10 @@
 ## <div align="center">Hey there, I'm Samuel Pacheco. Welcome! 👋</div>
 
-##### <div align="center">- 👨‍💻💽 Nowadays i'm working with Python Development to create business inteligente, automation, ETL, etc.
-📚 I have a degree in information technology management (Scrum, Kanban, Agile Master and OKR's measures), graduated in a 720-hour residency in Full Stack Development. And lots of another tech courses. </div>
+##### <div align="center">- 👨‍💻💽 Nowadays i work as Data Analyst midlevel in a ensurace company. I work with business inteligence using all the assets from this world to create value for my company.
+<br>
+I'm lover of technology and games!
+<br>
+📚 I majored in Information Technology management (Scrum, Kanban, Agile Master and OKR's measures), besides i graduated in a 720-hour residency in Full Stack Development and also majored in a post graduation in Software engeneering . And 17 other tech courses. </div>
 
 <br>
 
