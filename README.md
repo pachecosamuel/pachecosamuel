@@ -2,11 +2,11 @@
 
 ##### <div align="center">- 👨‍💻💽 Nowadays i work as Data Analyst midlevel in a ensurace company. I work with business inteligence using all the assets from this world to create value for my company.
 <br>
-##### <div align="center">- 🎮🎧 I'm lover of technology and games!
+<div align="center">- 🎮🎧 I'm lover of technology and games!
 <br>
 
 <br>
-##### <div align="center">- 📚 I majored in Information Technology management (Scrum, Kanban, Agile Master and OKR's measures), besides i graduated in a 720-hour residency in Full Stack Development and also majored in a post graduation in Software engeneering . And 17 other tech courses. </div>
+<div align="center">- 📚 I majored in Information Technology management (Scrum, Kanban, Agile Master and OKR's measures), besides i graduated in a 720-hour residency in Full Stack Development and also majored in a post graduation in Software engeneering . And 17 other tech courses. </div>
 <br>
 
 
